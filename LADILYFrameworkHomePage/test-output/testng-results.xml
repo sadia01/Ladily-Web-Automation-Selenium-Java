@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-09-16T04:15:37 BDT" name="Suite" finished-at="2024-09-16T04:16:58 BDT" duration-ms="81036">
+    <groups>
+    </groups>
+    <test started-at="2024-09-16T04:15:37 BDT" name="Test" finished-at="2024-09-16T04:16:58 BDT" duration-ms="81036">
+      <class name="tests.TC001_LogInTest">
+        <test-method is-config="true" signature="setDriver()[pri:0, instance:tests.TC001_LogInTest@7ac0e420]" started-at="2024-09-16T04:15:33 BDT" name="setDriver" finished-at="2024-09-16T04:15:37 BDT" duration-ms="3651" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setDriver -->
+        <test-method is-config="true" signature="startURL()[pri:0, instance:tests.TC001_LogInTest@7ac0e420]" started-at="2024-09-16T04:15:37 BDT" name="startURL" finished-at="2024-09-16T04:15:48 BDT" duration-ms="11340" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startURL -->
+        <test-method signature="loginSubmitOrder()[pri:0, instance:tests.TC001_LogInTest@7ac0e420]" started-at="2024-09-16T04:15:48 BDT" name="loginSubmitOrder" finished-at="2024-09-16T04:16:58 BDT" duration-ms="69610" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginSubmitOrder -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:tests.TC001_LogInTest@7ac0e420]" started-at="2024-09-16T04:16:59 BDT" name="tearDown" finished-at="2024-09-16T04:16:59 BDT" duration-ms="630" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- tests.TC001_LogInTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
