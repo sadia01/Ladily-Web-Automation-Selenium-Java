@@ -11,15 +11,15 @@ public class DataSet {
 	    return new Object[][]{
 	        {
 	            // CreateAccount Data
-	            "Rebecca", "Armstrong", "rebeccastrong@gmail.com", "01681336528", "becca1234", "becca1234",
+	            "Cobie", "Rico", "cobiericog@gmail.com", "01612336528", "cobi1234", "cobi1234",
 	            // CheckoutProduct Data
-	            "Rebecca", "Armstrong", "rebeccastrong@hotmail.com", "Dhaka", "Rayerbazar, Dhanmondi", "01681336528"
+	            "Cobie", "Rico", "cobiericog@hotmail.com", "Dhaka", "Rayerbazar, Dhanmondi", "01612336528"
 	        },
 	        {
 	            // CreateAccount Data
-	            "Freen", "Sarocha", "freensarocha@gmail.com", "01734556443", "sarocha1234", "sarocha1234",
+	            "Samantha", "Saiko", "samanthasaiko@gmail.com", "01712556443", "saiko1234", "saiko1234",
 	            // CheckoutProduct Data
-	            "Freen", "Sarocha", "freensarocha@gmail.com", "Bagerhat", "Bagerhat Sadar", "01734556443"
+	            "Samantha", "Saiko", "samanthasaiko@gmail.com", "Bagerhat", "Bagerhat Sadar", "01712556443"
 	        }
 	    };
 	}
@@ -43,56 +43,5 @@ public class DataSet {
         };
     }
     
-    
-    
-    
-    
-    
-    
-    
-    
-
-//	@DataProvider(name = "createAccountData")
-//	public static Object createAccountDataSet() {
-//		
-//		Object[][] obj = {
-//				
-//				{"Tabitha", "Jones", "tabithajones@hotmail.com", "01682333768", "tabitha1234", "tabitha1234"},
-//				{"Jeffery", "Miller", "millerjeffery@gmail.com", "01783555098", "miller1234", "miller"} 
-//				};
-//		return obj;
-//
-//	}
-
-	
-//	@DataProvider(name = "checkoutProductData")
-//	public static Object checkoutProductDataSet() {
-//		Object[][] obj = { 
-//				
-//				{"Carol", "Smith", "carolsmith@hotmail.com", "Dhaka", "Rayerbazar, Dhanmondi", "01682333768"},
-//				{"Jeffery", "Miller", "millerjeffery@gmail.com", "Bagerhat", "Bagerhat Sadar", "01783555098"} 
-//				};
-//		return obj;
-//
-//	}
-    
-//    @DataProvider(name = "loginData")
-//    public static Object[][] loginAccountDataSet() {
-//        return new Object[][] { 
-//            { "labibarahman@gmail.com", "labiba1234"},
-//            { "samihakabir@hotmail.com", "samiha1234"} 
-//        };
-//    }
-//
-//    @DataProvider(name = "checkoutProductLoginData")
-//    public static Object[][] checkoutProductLoginDataSet() {
-//        return new Object[][] { 
-//            { "01832781244", "labibarahman@gmail.com"},
-//            { "01756234098", "samihakabir@hotmail.com"}  
-//        };
-//    }
-//	
-
-
 
 }
